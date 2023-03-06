@@ -1,0 +1,13 @@
+Unable to connect to the remote server
+12/12/2018	Invalid URI: The format of the URI could not be determined.
+12/12/2018	Invalid URI: The format of the URI could not be determined.
+12/12/2018	Invalid URI: The format of the URI could not be determined.
+12/12/2018	Invalid URI: The format of the URI could not be determined.
+12/12/2018	Unknown exception: The server could not be contacted.	   at System.DirectoryServices.AccountManagement.PrincipalContext.ReadServerConfig(String serverName, ServerProperties& properties)
+   at System.DirectoryServices.AccountManagement.PrincipalContext.DoServerVerifyAndPropRetrieval()
+   at System.DirectoryServices.AccountManagement.PrincipalContext..ctor(ContextType contextType, String name, String container, ContextOptions options, String userName, String password)
+   at System.DirectoryServices.AccountManagement.PrincipalContext..ctor(ContextType contextType, String name)
+   at Login.btn_Login(Object sender, EventArgs e) in c:\Users\Waleedh.BANKSERVAFRICA\Desktop\obscriptsearch\login.aspx.cs:line 52
+12/12/2018	Invalid URI: The format of the URI could not be determined.
+12/12/2018	Invalid URI: The format of the URI could not be determined.
+12/12/2018	Invalid URI: The format of the URI could not be determined.
